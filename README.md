@@ -1,0 +1,2 @@
+# lpwsanca
+list prec sanca
